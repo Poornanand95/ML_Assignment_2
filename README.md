@@ -2,8 +2,8 @@
 
 **ML Assignment 2 · M.Tech (AIML), BITS Pilani WILP**
 
-- **GitHub repository:** `<GITHUB_REPO_LINK>`
-- **Live Streamlit app:** `<STREAMLIT_APP_LINK>`
+- **GitHub repository:** https://github.com/Poornanand95/ML_Assignment_2
+- **Live Streamlit app:** https://poornanand-mlassignment2-e4ws3rl6fuar7v8agtchwh.streamlit.app/
 
 ---
 
@@ -50,7 +50,7 @@ an uploaded test CSV.
 
 ## c. GitHub repository link
 
-`<GITHUB_REPO_LINK>`
+https://github.com/Poornanand95/ML_Assignment_2
 
 ```
 .
